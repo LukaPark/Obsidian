@@ -1,0 +1,165 @@
+{
+  "main": {
+    "id": "3b01c5e065b65123",
+    "type": "split",
+    "children": [
+      {
+        "id": "b1dcf0820fd5b610",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8931dc232504fad1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Next JS/next-router.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3a6d85b3ec2cec40",
+    "type": "split",
+    "children": [
+      {
+        "id": "6604ff0d1341ef43",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e5d937d3954e6091",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "56d4c92bf982cb41",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ec53a23a74006003",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "right": {
+    "id": "7e60c4220c4e31e3",
+    "type": "split",
+    "children": [
+      {
+        "id": "c6fcbc09701739c9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2673900c012fa102",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Next JS/next-router.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ee026a36647454fc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Next JS/next-router.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3e52e38812bcf8de",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "53decbfb18d28def",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Next JS/next-router.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "8931dc232504fad1",
+  "lastOpenFiles": [
+    "Next JS/Styled-component.md",
+    "Next JS/next-router.md",
+    "Next JS/Local Font 적용.md",
+    "무제 파일.md",
+    "HTML5 & CSS3/Reset.css.md",
+    "Next JS",
+    "GraphQL/Apollo Client.md",
+    "GraphQL/GraphQL.md",
+    "GraphQL/Hasura.md",
+    "HTML5 & CSS3",
+    "Untitled.canvas",
+    "GraphQL"
+  ]
+}

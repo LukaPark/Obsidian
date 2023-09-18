@@ -1,0 +1,3 @@
+- 기존 RDS 서버에 있는 test DB와 연동시키는 것이 목적
+- Docker위에 Hasura 서버를 올려야한다고 함 
+- 

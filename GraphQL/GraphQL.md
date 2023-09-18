@@ -1,0 +1,1 @@
+Hasura -> DataBase가 존재하면, Database를 hasura에 연결시 graphQL API를 자동으로 만들어 준다고 함
