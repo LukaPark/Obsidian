@@ -4,22 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "b1dcf0820fd5b610",
+        "id": "b690dc97831ae94b",
         "type": "tabs",
         "children": [
           {
-            "id": "8931dc232504fad1",
+            "id": "ade19a58dfa9a8a1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Next JS/next-router.md",
+                "file": "🍴 ThreeJS/요소/Material.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "2ab81a680e61391d",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.13"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +59,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#RawShaderMaterial",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,12 +76,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "7e60c4220c4e31e3",
@@ -86,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Next JS/next-router.md",
+                "file": "🍴 ThreeJS/요소/Material.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Next JS/next-router.md",
+                "file": "🍴 ThreeJS/요소/Material.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,16 +137,24 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Next JS/next-router.md"
+                "file": "🍴 ThreeJS/요소/Material.md"
               }
             }
+          },
+          {
+            "id": "f6630e617053b0ab",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -147,19 +166,36 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "8931dc232504fad1",
+  "active": "2ab81a680e61391d",
   "lastOpenFiles": [
-    "Next JS/Styled-component.md",
-    "Next JS/next-router.md",
-    "Next JS/Local Font 적용.md",
+    "🍴 ThreeJS/요소/Texture.md",
+    "🍴 ThreeJS/요소/Material.md",
+    "🍴 ThreeJS/요소/Plane.md",
+    "🍴 ThreeJS/요소/Geometry.md",
+    "🍴 ThreeJS/요소",
+    "📅 Calendar/2023-09-18.md",
+    "🍴 ThreeJS/WebGL 호환성 검사.md",
+    "📅 Calendar/2023-09-17.md",
+    "📅 Calendar/2023-09-19.md",
+    "📅 Calendar",
+    "무제 파일 1.canvas",
+    "무제 파일.canvas",
+    "🍴 ThreeJS/Three.js.md",
+    "🍴 ThreeJS/Installation.md",
+    "✔️ Next JS/error/window is not defined.md",
+    "✔️ Next JS/error",
+    "✔️ Next JS/next-router.md",
+    "🍴 ThreeJS",
+    "✔️ Next JS/Styled-component.md",
+    "✔️ Next JS/Local Font 적용.md",
     "무제 파일.md",
-    "HTML5 & CSS3/Reset.css.md",
-    "Next JS",
-    "GraphQL/Apollo Client.md",
-    "GraphQL/GraphQL.md",
-    "GraphQL/Hasura.md",
-    "HTML5 & CSS3",
+    "✔️ HTML5 & CSS3/Reset.css.md",
+    "✔️ Next JS",
+    "✔️ GraphQL/Apollo Client.md",
+    "✔️ GraphQL/GraphQL.md",
+    "✔️ GraphQL/Hasura.md",
+    "✔️ HTML5 & CSS3",
     "Untitled.canvas",
-    "GraphQL"
+    "✔️ GraphQL"
   ]
 }
