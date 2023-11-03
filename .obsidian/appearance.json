@@ -1,7 +1,8 @@
 {
-  "accentColor": "#49df5a",
+  "accentColor": "#5cf56e",
   "theme": "moonstone",
-  "interfaceFontFamily": "Pretendard Variable",
+  "interfaceFontFamily": "SF Pro Text",
   "monospaceFontFamily": "SF Pro",
-  "textFontFamily": "SF Pro"
+  "textFontFamily": "나눔스퀘어OTF,나눔스퀘어,SF Pro Rounded,Pretendard Variable,SF Pro",
+  "baseFontSize": 14
 }

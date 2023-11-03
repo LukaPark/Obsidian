@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "5bf7b4dfd8fc28e1",
+        "id": "9e4563f57fe01570",
         "type": "tabs",
         "children": [
           {
-            "id": "a854e3708403820d",
+            "id": "465b46ff7309a64f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "✔️ 정보처리기사/요구사항 확인 2.md",
+                "file": "2023-11-03.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "✔️ 정보처리기사/요구사항 확인 2.md",
+                "file": "2023-11-03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "✔️ 정보처리기사/요구사항 확인 2.md",
+                "file": "2023-11-03.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "✔️ 정보처리기사/요구사항 확인 2.md"
+                "file": "2023-11-03.md"
               }
             }
           },
@@ -137,12 +137,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -154,55 +154,56 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "a854e3708403820d",
+  "active": "465b46ff7309a64f",
   "lastOpenFiles": [
+    "2023-11-02.md",
+    "2023-11-03.md",
+    "📦 Images/Pasted image 20231031165845.png",
+    "📅 Calendar/2023-10-31.md",
+    "📦 Images/Orthographic vs Perspective.png",
+    "📦 Images/Pasted image 20231031161937.png",
+    "✔️ HTML5 & CSS3/animation/SVG 드로잉 애니메이션.md",
     "📖 Wiki.md",
-    "메모/Toss.md",
-    "Pasted image 20230927143423.png",
-    "✔️ 정보처리기사/요구사항 확인 2.md",
-    "메모",
-    "✔️ 정보처리기사/요구사항 확인 1.md",
-    "✔️ GraphQL/AppSync의 SQL 기반 resolver.md",
-    "✔️ 정보처리기사",
-    "✔️ Next JS/error/Text content dose not match server-rendered HTML.md",
-    "📦Images/Pasted image 20230920093308.png",
-    "📦Images/Pasted image 20230919140303.png",
+    "✔️ HTML5 & CSS3/animation",
     "✔️ HTML5 & CSS3/SVG.md",
-    "🍴 ThreeJS/요소/Controls.md",
-    "🍴 ThreeJS/요소/Plane.md",
-    "🍴 ThreeJS/요소/Material.md",
-    "🍴 ThreeJS/요소/Texture.md",
-    "🍴 ThreeJS/요소/Geometry.md",
-    "📦Images/Pasted image 20230919122455.png",
-    "🍴 ThreeJS/Debug UI.md",
-    "✔️ NPM/NPM 명령어.md",
-    "✔️ NPM",
-    "📦Images/Pasted image 20230919123236.png",
-    "📦Images/Pasted image 20230919123231.png",
-    "🍴 ThreeJS/요소/Sizing and FullScreen.md",
-    "🍴 ThreeJS/요소/Transform Objects.md",
-    "🍴 ThreeJS/Installation.md",
-    "📦Images/Pasted image 20230919122017.png",
-    "📦Images/Pasted image 20230919121943.png",
-    "📦Images/Pasted image 20230919121633.png",
-    "📦Images/Pasted image 20230919121436.png",
-    "📦Images",
-    "🍴 ThreeJS/요소/Cameras.md",
-    "📅 Calendar/2023-09-18.md",
+    "무제 폴더",
+    "✔️ JS. TS/👊 이벤트 핸들링.md",
+    "✔️ JS. TS/브라우저 렌더링 순서..md",
+    "✔️ HTML5 & CSS3/CSS 기초.md",
+    "📅 Calendar/2023-10-26.md",
+    "📦 Images/Pasted image 20231030092539.png",
+    "✔️ AWS/Route53.md",
+    "✔️ AWS/VPC.md",
+    "📦 Images/Pasted image 20231030093831.png",
+    "✔️ AWS",
+    "📅 Calendar/2023-10-12.md",
+    "📅 Calendar/2023-10-05.md",
+    "📅 Calendar/2023-10-04.md",
     "📅 Calendar/2023-09-19.md",
-    "🍴 ThreeJS/요소/Animations.md",
-    "✔️ JS. TS/Webpack.md",
+    "📅 Calendar/2023-09-18.md",
+    "✔️ Next JS/Styled-component.md",
+    "✔️ NPM/NPM 명령어.md",
+    "📅 Calendar/2023-09-17.md",
+    "✔️ JS. TS/JS Module/1. JS Module의 변화.md",
+    "✔️ JS. TS/JS Module/0. 모듈.md",
+    "✔️ JS. TS/JS Module/브라우저 모듈과 ESM.md",
+    "✔️ JS. TS/JS Module",
+    "📦 Images/Pasted image 20231005115517.png",
+    "✔️ Next JS/Middleware.md",
+    "📦 Images/Pasted image 20231005115422.png",
+    "📦 Images/Pasted image 20231005115303.png",
+    "✔️ Next JS/Next-Auth.md",
+    "✔️ HTML5 & CSS3/Reset.css.md",
+    "📦 Images/Pasted image 20230927143423.png",
+    "📦 Images/Pasted image 20231004123437.png",
+    "메모",
+    "✔️ 정보처리기사",
+    "✔️ NPM",
+    "📦 Images",
     "✔️ JS. TS",
     "🍴 ThreeJS/요소",
-    "🍴 ThreeJS/WebGL 호환성 검사.md",
-    "📅 Calendar/2023-09-17.md",
-    "📅 Calendar",
     "무제 파일 1.canvas",
     "무제 파일.canvas",
-    "🍴 ThreeJS/Three.js.md",
-    "✔️ Next JS/error",
-    "🍴 ThreeJS",
-    "✔️ Next JS",
     "Untitled.canvas"
   ]
 }
