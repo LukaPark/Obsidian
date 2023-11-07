@@ -4,47 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "9e4563f57fe01570",
+        "id": "60f79f99932a26d1",
         "type": "tabs",
         "children": [
           {
-            "id": "465b46ff7309a64f",
+            "id": "ac8911ea11944d39",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "📅 Calendar/2023-11-02.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ddbe8ced952fa65c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "📅 Calendar/2023-11-03.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "02a78be07f574f9a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "📅 Calendar/2023-11-06.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📅 Calendar/2023-11-06.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📅 Calendar/2023-11-06.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "📅 Calendar/2023-11-06.md"
-              }
+              "state": {}
             }
           },
           {
@@ -180,20 +147,25 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "e5d937d3954e6091",
+  "active": "ac8911ea11944d39",
   "lastOpenFiles": [
-    "📅 Calendar/2023-11-03.md",
+    "무제 파일.md",
+    "✔️ HTML5 & CSS3/animation/SVG 드로잉 애니메이션.md",
     "📅 Calendar/2023-11-02.md",
+    "🍴 Framer Motion/소개..md",
+    "📅 Calendar/2023-11-03.md",
+    "🍴 Framer Motion",
+    "메모/무제.md",
+    "📖 Wiki.md",
+    "메모/Toss.md",
+    "✔️ Next JS/Next-Image.md",
     "📅 Calendar/2023-11-06.md",
     "📦 Images/Pasted image 20231031165845.png",
     "📅 Calendar/2023-10-31.md",
     "📦 Images/Orthographic vs Perspective.png",
     "📦 Images/Pasted image 20231031161937.png",
-    "✔️ HTML5 & CSS3/animation/SVG 드로잉 애니메이션.md",
-    "📖 Wiki.md",
     "✔️ HTML5 & CSS3/animation",
     "✔️ HTML5 & CSS3/SVG.md",
-    "무제 폴더",
     "✔️ JS. TS/👊 이벤트 핸들링.md",
     "✔️ JS. TS/브라우저 렌더링 순서..md",
     "✔️ HTML5 & CSS3/CSS 기초.md",
@@ -211,15 +183,10 @@
     "✔️ Next JS/Styled-component.md",
     "✔️ NPM/NPM 명령어.md",
     "📅 Calendar/2023-09-17.md",
-    "✔️ JS. TS/JS Module/1. JS Module의 변화.md",
-    "✔️ JS. TS/JS Module/0. 모듈.md",
-    "✔️ JS. TS/JS Module/브라우저 모듈과 ESM.md",
     "✔️ JS. TS/JS Module",
     "📦 Images/Pasted image 20231005115517.png",
-    "✔️ Next JS/Middleware.md",
     "📦 Images/Pasted image 20231005115422.png",
     "📦 Images/Pasted image 20231005115303.png",
-    "✔️ Next JS/Next-Auth.md",
     "📦 Images/Pasted image 20230927143423.png",
     "📦 Images/Pasted image 20231004123437.png",
     "메모",
