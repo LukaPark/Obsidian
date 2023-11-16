@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-11-15.md",
+                "file": "✔️ Nest JS/Intro.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-11-15.md",
+                "file": "✔️ Nest JS/Intro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-11-15.md",
+                "file": "✔️ Nest JS/Intro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-11-15.md"
+                "file": "✔️ Nest JS/Intro.md"
               }
             }
           },
@@ -156,8 +156,10 @@
   },
   "active": "124d6b3624b9029e",
   "lastOpenFiles": [
-    "📅 Calendar/2023-10-26.md",
     "2023-11-15.md",
+    "✔️ Nest JS/Intro.md",
+    "✔️ Nest JS",
+    "📅 Calendar/2023-10-26.md",
     "2023-11-14.md",
     "📅 Calendar/2023-11-10.md",
     "📅 Calendar/2023-10-31.md",
@@ -193,14 +195,12 @@
     "📦 Images/Pasted image 20231030092539.png",
     "📦 Images",
     "📖 Wiki.md",
-    "📅 Calendar/2023-10-12.md",
     "📅 Calendar",
     "🍴 ThreeJS/요소",
     "🍴 ThreeJS",
     "🍴 Framer Motion",
     "메모",
     "✔️ 정보처리기사",
-    "✔️ Next JS/error",
-    "✔️ Next JS"
+    "✔️ Next JS/error"
   ]
 }
