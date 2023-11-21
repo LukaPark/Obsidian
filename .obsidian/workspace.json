@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "✔️ Nest JS/ConfigModule.md",
+                "file": "✔️ Nest JS/Entities.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "✔️ Nest JS/ConfigModule.md",
+                "file": "✔️ Nest JS/Entities.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "✔️ Nest JS/ConfigModule.md",
+                "file": "✔️ Nest JS/Entities.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "✔️ Nest JS/ConfigModule.md"
+                "file": "✔️ Nest JS/Entities.md"
               }
             }
           },
@@ -156,6 +156,8 @@
   },
   "active": "19ced667d87e9dcd",
   "lastOpenFiles": [
+    "✔️ Nest JS/Intro.md",
+    "✔️ Nest JS/Entities.md",
     "✔️ Nest JS/app.module.ts.md",
     "✔️ Nest JS/ConfigModule.md",
     "✔️ Nest JS/Controller.md",
@@ -163,7 +165,6 @@
     "Pasted image 20231120143119.png",
     "2023-11-20.md",
     "Pasted image 20231120142917.png",
-    "✔️ Nest JS/Intro.md",
     "2023-11-15.md",
     "✔️ Nest JS",
     "📅 Calendar/2023-10-26.md",
@@ -190,7 +191,6 @@
     "✔️ Next JS/Nextjs14 Drill/5. Navigating Between Pages.md",
     "✔️ Next JS/Nextjs14 Drill/4. Create Layout and Page.md",
     "✔️ Next JS/Nextjs14 Drill/3. Font and Image.md",
-    "✔️ Next JS/Nextjs14 Drill/2. CSS Styling.md",
     "✔️ Next JS/Nextjs14 Drill",
     "📦 Images/Pasted image 20231005115517.png",
     "📦 Images/Pasted image 20231031165845.png",
