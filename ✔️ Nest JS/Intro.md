@@ -5,7 +5,9 @@
 		- 이를 통해 개발자는 수 많은 타사 모듈들을 자유롭게 이용 할 수 있음.
 
 - Babel 컴파일러 사용.
-
+- Nodejs 기반을 둔 웹 API 프레임워크로서, Express or Fastify 프레임워크를 래핑하여 동작.
+- Fastify가 Express 보다 2배 정도 빠른 속도를 보장하지만, Express의 사용자가 더 많고 다양한 미들웨어가 NestJs 와 호환되기 때문에 Default = Express.
+- 
 
 #### **Main.ts**
 
