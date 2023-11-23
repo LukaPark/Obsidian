@@ -1,0 +1,26 @@
+{
+	"nodes":[
+		{"id":"3f00d5347d027b6e","type":"text","text":"본인 인증 api","x":280,"y":-440,"width":250,"height":60,"color":"4"},
+		{"id":"3ea2c6b7d3d591c4","type":"text","text":"미인증 회원 가입 api","x":280,"y":-220,"width":250,"height":60,"color":"1"},
+		{"id":"d41d09520fef1252","type":"text","text":"유저 회원가입 ","x":-280,"y":-340,"width":250,"height":60},
+		{"id":"1169e84dc80b5a8a","type":"text","text":"iamport","x":660,"y":-720,"width":250,"height":60,"color":"6"},
+		{"id":"aa164cbff36aceca","type":"text","text":"인증 회원 가입 api","x":1000,"y":-440,"width":250,"height":60,"color":"1"},
+		{"id":"fd97bc2ce0df64a1","type":"text","text":"회원가입","x":-735,"y":-222,"width":250,"height":60},
+		{"id":"740a42742ea9c094","type":"text","text":"관리자 회원가입","x":-280,"y":60,"width":250,"height":60},
+		{"id":"c1f669c8a484defa","x":207,"y":393,"width":250,"height":60,"color":"6","type":"text","text":"두레이 메일 발송 api"},
+		{"id":"97456cfcc5b9d42e","x":825,"y":394,"width":250,"height":60,"color":"6","type":"text","text":"가입 승인 (론픽 사내 페이지)"},
+		{"id":"7b376981d73c4ad5","x":825,"y":60,"width":250,"height":60,"color":"1","type":"text","text":"관리자 회원 가입 api"}
+	],
+	"edges":[
+		{"id":"106fd1157e43e2b0","fromNode":"d41d09520fef1252","fromSide":"right","toNode":"3f00d5347d027b6e","toSide":"left","label":"본인인증 true"},
+		{"id":"4f491ab2b1b62651","fromNode":"d41d09520fef1252","fromSide":"right","toNode":"3ea2c6b7d3d591c4","toSide":"left","label":"본인인증 false"},
+		{"id":"3fb8df9b0af1a0c9","fromNode":"3f00d5347d027b6e","fromSide":"top","toNode":"1169e84dc80b5a8a","toSide":"left","label":"본인 인증 요청"},
+		{"id":"f4ba494c26e03074","fromNode":"1169e84dc80b5a8a","fromSide":"bottom","toNode":"3f00d5347d027b6e","toSide":"top","label":"본인 인증 결과"},
+		{"id":"801201a0adfa9f78","fromNode":"3f00d5347d027b6e","fromSide":"right","toNode":"aa164cbff36aceca","toSide":"left","label":"본인인증 정보, 회원가입 정보"},
+		{"id":"1fb01210e293d70f","fromNode":"fd97bc2ce0df64a1","fromSide":"right","toNode":"d41d09520fef1252","toSide":"left","label":"관리자 false"},
+		{"id":"66549e13f4b0cfd4","fromNode":"fd97bc2ce0df64a1","fromSide":"right","toNode":"740a42742ea9c094","toSide":"left","label":"관리자 true"},
+		{"id":"0669ab8454dc3622","fromNode":"97456cfcc5b9d42e","fromSide":"top","toNode":"7b376981d73c4ad5","toSide":"bottom","label":"가입 승인 (론픽)"},
+		{"id":"2cff4ad72e081ff5","fromNode":"740a42742ea9c094","fromSide":"right","toNode":"c1f669c8a484defa","toSide":"left","label":"가입 승인 요청"},
+		{"id":"f6eab856637a8960","fromNode":"c1f669c8a484defa","fromSide":"right","toNode":"97456cfcc5b9d42e","toSide":"left"}
+	]
+}

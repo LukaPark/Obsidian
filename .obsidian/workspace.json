@@ -4,18 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "20b9d6cd8845fef0",
+        "id": "eff7858f10f5d817",
         "type": "tabs",
         "children": [
           {
-            "id": "19ced667d87e9dcd",
+            "id": "56bedc2236008ce3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "✔️ Nest JS/TypeORM/트랜잭션..md",
-                "mode": "source",
-                "source": false
+                "file": "🚀 회원관리 웹 api/회원가입 로직.canvas",
+                "viewState": {
+                  "x": 435.53416548211015,
+                  "y": -198.68743539644174,
+                  "zoom": -1.0448168774781064
+                }
               }
             }
           }
@@ -85,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "✔️ Nest JS/TypeORM/트랜잭션..md",
+                "file": "🚀 회원관리 웹 api/회원가입 로직.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "✔️ Nest JS/TypeORM/트랜잭션..md",
+                "file": "🚀 회원관리 웹 api/회원가입 로직.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "✔️ Nest JS/TypeORM/트랜잭션..md"
+                "file": "🚀 회원관리 웹 api/회원가입 로직.canvas"
               }
             }
           },
@@ -142,7 +145,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -154,14 +158,25 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "19ced667d87e9dcd",
+  "active": "56bedc2236008ce3",
   "lastOpenFiles": [
-    "✔️ Nest JS/자잘한/Validation Pipe.md",
+    "관리자 회원가입.canvas",
+    "🚀 회원관리 웹 api/회원가입 로직.canvas",
+    "2023-11-23.md",
+    "🚀 회원관리 웹 api/관리자 회원가입..md",
+    "🚀 회원관리 웹 api",
+    "무제 파일 1.md",
+    "무제 파일.md",
+    "📦 Images/Pasted image 20231120142917.png",
+    "📅 Calendar/2023-11-12.md",
+    "📅 Calendar/2023-11-23.md",
+    "✔️ Nest JS/TypeORM/마이그레이션..md",
     "✔️ Nest JS/TypeORM/트랜잭션..md",
+    "✔️ Nest JS/자잘한/Validation Pipe.md",
     "✔️ Nest JS/TypeORM",
     "✔️ Nest JS/Module.md",
     "✔️ Nest JS/Provider.md",
-    "Pasted image 20231122121239.png",
+    "📦 Images/Pasted image 20231122121239.png",
     "✔️ Nest JS/Entities.md",
     "✔️ Nest JS/Controller.md",
     "✔️ Nest JS/Intro.md",
@@ -169,38 +184,28 @@
     "✔️ Nest JS/자잘한",
     "✔️ Nest JS/app.module.ts.md",
     "✔️ Nest JS/ConfigModule.md",
-    "Pasted image 20231120143154.png",
-    "Pasted image 20231120143119.png",
-    "2023-11-20.md",
-    "Pasted image 20231120142917.png",
-    "2023-11-15.md",
+    "📦 Images/Pasted image 20231120143154.png",
+    "📦 Images/Pasted image 20231120143119.png",
+    "📅 Calendar/2023-11-20.md",
+    "📅 Calendar/2023-11-15.md",
     "✔️ Nest JS",
     "📅 Calendar/2023-10-26.md",
-    "2023-11-14.md",
+    "📅 Calendar/2023-11-14.md",
     "📅 Calendar/2023-11-10.md",
     "📅 Calendar/2023-10-31.md",
-    "2023-11-13.md",
-    "2023-11-12.md",
+    "📅 Calendar/2023-11-13.md",
     "📅 Calendar/2023-11-02.md",
-    "📅 Calendar/2023-11-03.md",
-    "📅 Calendar/2023-11-06.md",
-    "✔️ Next JS/Styled-component.md",
-    "✔️ Next JS/Nextjs14 Drill/11. Adding Search and Pagination.md",
-    "무제 파일.md",
     "📦 Images/스크린샷 2023-11-09 오전 10.10.01.png",
     "📦 Images/스크린샷 2023-11-09 14.35.01.png",
     "📦 Images/Pasted image 20231109142505.png",
     "📦 Images/Pasted image 20231109142227.png",
     "📦 Images/Pasted image 20231109123320.png",
-    "✔️ Next JS/Nextjs14 Drill/9. Streaming.md",
-    "✔️ Next JS/Nextjs14 Drill/8. Static and Dynamic Rendering.md",
     "✔️ Next JS/Nextjs14 Drill",
     "📦 Images/Pasted image 20231005115517.png",
     "📦 Images",
     "📅 Calendar",
     "🍴 ThreeJS/요소",
     "🍴 ThreeJS",
-    "🍴 Framer Motion",
-    "메모"
+    "🍴 Framer Motion"
   ]
 }
