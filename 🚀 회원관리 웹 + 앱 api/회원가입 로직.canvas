@@ -1,0 +1,30 @@
+{
+	"nodes":[
+		{"id":"3f00d5347d027b6e","type":"text","text":"본인 인증 api","x":280,"y":-440,"width":250,"height":60,"color":"4"},
+		{"id":"d41d09520fef1252","type":"text","text":"유저 회원가입 ","x":-280,"y":-340,"width":250,"height":60},
+		{"id":"aa164cbff36aceca","type":"text","text":"인증 회원 가입 api","x":1000,"y":-440,"width":250,"height":60,"color":"1"},
+		{"id":"740a42742ea9c094","type":"text","text":"관리자 회원가입","x":-280,"y":60,"width":250,"height":60},
+		{"id":"3ea2c6b7d3d591c4","type":"text","text":"미인증 회원 가입 api","x":280,"y":-162,"width":250,"height":60,"color":"1"},
+		{"id":"a17545d1cf79fb4f","type":"text","text":"# 기본적으로 회원, 관리자 계정으로 구분.\n### 1. 회원:  **인증 회원**, 미인증 회원\n#### 1-1. 인증 회원은 앱, 웹 구분없이 사용 가능.\n#### 1-2. 미인증 회원은 앱 사용 또는 다른 센터로의 이전을 위해 데이터를 보관하고자 하는 행위를 할 때에는 인증이 필요. -> 개인 정보 + 센터에서 발급반은 키패드를 입력 하는 방식.\n### 2. 관리자: 관리자 내에서도 구분이 필요해 보임.\n#### 2-1. 센터에 관리자, 트레이너 형태로 구분 짓는다면,\n#### 최초 센터 관리자는 론픽에서 승인, 추후 트레이너는 센터관리자의 승인을 받는 형태로 구현되어야 할 것으로 보임.\n\n\n\n","x":-735,"y":-880,"width":478,"height":460},
+		{"id":"aae1df1a4b8a43e5","x":280,"y":60,"width":250,"height":60,"color":"4","type":"text","text":"센터 관리자 승인 (관리자 웹)\n"},
+		{"id":"c1f669c8a484defa","type":"text","text":"두레이 메일 발송 api","x":280,"y":394,"width":250,"height":60,"color":"6"},
+		{"id":"7b376981d73c4ad5","type":"text","text":"관리자 회원 가입 api","x":1000,"y":60,"width":250,"height":60,"color":"1"},
+		{"id":"97456cfcc5b9d42e","type":"text","text":"가입 승인 (론픽 사내 페이지)","x":1000,"y":394,"width":250,"height":60,"color":"6"},
+		{"id":"1169e84dc80b5a8a","type":"text","text":"iamport","x":640,"y":-880,"width":250,"height":60,"color":"6"},
+		{"id":"fd97bc2ce0df64a1","type":"text","text":"회원가입","x":-860,"y":-162,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"106fd1157e43e2b0","fromNode":"d41d09520fef1252","fromSide":"right","toNode":"3f00d5347d027b6e","toSide":"left","label":"본인인증 true"},
+		{"id":"4f491ab2b1b62651","fromNode":"d41d09520fef1252","fromSide":"right","toNode":"3ea2c6b7d3d591c4","toSide":"left","label":"본인인증 false"},
+		{"id":"3fb8df9b0af1a0c9","fromNode":"3f00d5347d027b6e","fromSide":"top","toNode":"1169e84dc80b5a8a","toSide":"left","label":"본인 인증 요청"},
+		{"id":"f4ba494c26e03074","fromNode":"1169e84dc80b5a8a","fromSide":"right","toNode":"3f00d5347d027b6e","toSide":"top","label":"본인 인증 결과"},
+		{"id":"801201a0adfa9f78","fromNode":"3f00d5347d027b6e","fromSide":"right","toNode":"aa164cbff36aceca","toSide":"left","label":"본인인증 정보, 회원가입 정보"},
+		{"id":"1fb01210e293d70f","fromNode":"fd97bc2ce0df64a1","fromSide":"right","toNode":"d41d09520fef1252","toSide":"left","label":"관리자 false"},
+		{"id":"66549e13f4b0cfd4","fromNode":"fd97bc2ce0df64a1","fromSide":"right","toNode":"740a42742ea9c094","toSide":"left","label":"관리자 true"},
+		{"id":"0669ab8454dc3622","fromNode":"97456cfcc5b9d42e","fromSide":"top","toNode":"7b376981d73c4ad5","toSide":"bottom","label":"가입 승인"},
+		{"id":"2cff4ad72e081ff5","fromNode":"740a42742ea9c094","fromSide":"right","toNode":"c1f669c8a484defa","toSide":"left","label":"가입 승인 요청"},
+		{"id":"f6eab856637a8960","fromNode":"c1f669c8a484defa","fromSide":"right","toNode":"97456cfcc5b9d42e","toSide":"left"},
+		{"id":"c4a8caa4dd9258ec","fromNode":"740a42742ea9c094","fromSide":"right","toNode":"aae1df1a4b8a43e5","toSide":"left","label":"트레이너"},
+		{"id":"34e38f166e6db78e","fromNode":"aae1df1a4b8a43e5","fromSide":"right","toNode":"7b376981d73c4ad5","toSide":"left","label":"가입승인"}
+	]
+}

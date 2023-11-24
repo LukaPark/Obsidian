@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"76a48bb2717ed9fe","type":"text","text":"앱 초기화면","x":-515,"y":-238,"width":250,"height":60},
+		{"id":"832b4b6204a23fa3","type":"text","text":"회원가입 로직","x":-20,"y":-600,"width":250,"height":60,"color":"3"},
+		{"id":"76bde8a55743f5e0","type":"text","text":"본인인증 api","x":-20,"y":140,"width":250,"height":60,"color":"4"},
+		{"id":"14489cf68b771b0f","type":"text","text":"로그인 api","x":480,"y":-238,"width":250,"height":60,"color":"1"},
+		{"id":"debd706f51b800c0","type":"text","text":"Iamport","x":230,"y":440,"width":250,"height":60,"color":"6"}
+	],
+	"edges":[
+		{"id":"d85fcf1d992c61ea","fromNode":"76a48bb2717ed9fe","fromSide":"right","toNode":"832b4b6204a23fa3","toSide":"left","label":"신규 회원"},
+		{"id":"d0d390db93e43b75","fromNode":"76a48bb2717ed9fe","fromSide":"right","toNode":"14489cf68b771b0f","toSide":"left","label":"인증 회원"},
+		{"id":"e9fbd78847a55207","fromNode":"76a48bb2717ed9fe","fromSide":"right","toNode":"76bde8a55743f5e0","toSide":"left","label":"미인증 회원"},
+		{"id":"16fc6be044189b12","fromNode":"76bde8a55743f5e0","fromSide":"right","toNode":"14489cf68b771b0f","toSide":"left"},
+		{"id":"c05acc798647cdde","fromNode":"76bde8a55743f5e0","fromSide":"bottom","toNode":"debd706f51b800c0","toSide":"left","label":"본인 인증 요청"},
+		{"id":"89b41dfd3cb7f405","fromNode":"debd706f51b800c0","fromSide":"top","toNode":"76bde8a55743f5e0","toSide":"bottom","label":"본인 인증 결과"}
+	]
+}
