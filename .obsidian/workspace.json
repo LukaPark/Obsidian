@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📖 Wiki.md",
+                "file": "2023-11-25.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📖 Wiki.md",
+                "file": "2023-11-25.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📖 Wiki.md",
+                "file": "2023-11-25.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📖 Wiki.md"
+                "file": "2023-11-25.md"
               }
             }
           },
@@ -142,7 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 376.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -156,6 +156,8 @@
   },
   "active": "56bedc2236008ce3",
   "lastOpenFiles": [
+    "📖 Wiki.md",
+    "2023-11-25.md",
     "📅 Calendar/2023-11-24.md",
     "📦 Images/Pasted image 20231124113031.png",
     "무제 파일.md",
@@ -194,7 +196,6 @@
     "📅 Calendar/2023-11-15.md",
     "✔️ Nest JS",
     "📅 Calendar/2023-10-26.md",
-    "📅 Calendar/2023-11-14.md",
     "📦 Images/스크린샷 2023-11-09 오전 10.10.01.png",
     "📦 Images/스크린샷 2023-11-09 14.35.01.png",
     "📦 Images/Pasted image 20231109142505.png",
