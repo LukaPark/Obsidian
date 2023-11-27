@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-11-25.md",
+                "file": "✔️ Nest JS/Intro.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-11-25.md",
+                "file": "✔️ Nest JS/Intro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-11-25.md",
+                "file": "✔️ Nest JS/Intro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-11-25.md"
+                "file": "✔️ Nest JS/Intro.md"
               }
             }
           },
@@ -156,9 +156,14 @@
   },
   "active": "56bedc2236008ce3",
   "lastOpenFiles": [
-    "📖 Wiki.md",
-    "2023-11-25.md",
+    "2023-11-27.md",
+    "✔️ Nest JS/자잘한/슬라이딩 세션, 리프레쉬 토큰..md",
     "📅 Calendar/2023-11-24.md",
+    "📅 Calendar/2023-11-23.md",
+    "📅 Calendar/2023-11-15.md",
+    "📅 Calendar/2023-11-20.md",
+    "2023-11-25.md",
+    "📖 Wiki.md",
     "📦 Images/Pasted image 20231124113031.png",
     "무제 파일.md",
     "✔️ Nest JS/10. Guard + JWT Auth.md",
@@ -169,7 +174,6 @@
     "ㅂ.md",
     "📦 Images/Pasted image 20231124105555.png",
     "🚀 회원관리 웹 + 앱 api/데이터 통계 관련.canvas",
-    "📅 Calendar/2023-11-23.md",
     "관리자 회원가입.canvas",
     "2023-11-23.md",
     "🚀 회원관리 웹 api/관리자 회원가입..md",
@@ -189,13 +193,9 @@
     "✔️ Nest JS/자잘한/환경변수 설정..md",
     "✔️ Nest JS/자잘한",
     "✔️ Nest JS/app.module.ts.md",
-    "✔️ Nest JS/ConfigModule.md",
     "📦 Images/Pasted image 20231120143154.png",
     "📦 Images/Pasted image 20231120143119.png",
-    "📅 Calendar/2023-11-20.md",
-    "📅 Calendar/2023-11-15.md",
     "✔️ Nest JS",
-    "📅 Calendar/2023-10-26.md",
     "📦 Images/스크린샷 2023-11-09 오전 10.10.01.png",
     "📦 Images/스크린샷 2023-11-09 14.35.01.png",
     "📦 Images/Pasted image 20231109142505.png",
