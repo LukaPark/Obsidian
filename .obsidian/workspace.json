@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-11-28.md",
+                "file": "✔️ HTML5 & CSS3/input  관련 지리는 사실.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-11-28.md",
+                "file": "✔️ HTML5 & CSS3/input  관련 지리는 사실.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-11-28.md",
+                "file": "✔️ HTML5 & CSS3/input  관련 지리는 사실.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-11-28.md"
+                "file": "✔️ HTML5 & CSS3/input  관련 지리는 사실.md"
               }
             }
           },
@@ -156,8 +156,15 @@
   },
   "active": "56bedc2236008ce3",
   "lastOpenFiles": [
-    "✔️ Next JS/Local Font 적용.md",
+    "2023-11-29.md",
+    "✔️ HTML5 & CSS3/input  관련 지리는 사실.md",
+    "✔️ HTML5 & CSS3/animation/SVG 드로잉 애니메이션.md",
+    "✔️ HTML5 & CSS3/PC, Mobile 환경 구분.md",
+    "✔️ HTML5 & CSS3/SVG.md",
+    "✔️ HTML5 & CSS3/Reset.css.md",
+    "✔️ HTML5 & CSS3/CSS 기초.md",
     "2023-11-28.md",
+    "✔️ Next JS/Local Font 적용.md",
     "✔️ Next JS/Nextjs14 Drill/3. Font and Image.md",
     "2023-11-27.md",
     "✔️ Nest JS/Intro.md",
@@ -183,15 +190,8 @@
     "🚀 회원관리 웹 api/관리자 회원가입..md",
     "🚀 회원관리 웹 + 앱 api",
     "📦 Images/Pasted image 20231120142917.png",
-    "📅 Calendar/2023-11-12.md",
-    "✔️ Nest JS/TypeORM/마이그레이션..md",
-    "✔️ Nest JS/TypeORM/트랜잭션..md",
-    "✔️ Nest JS/자잘한/Validation Pipe.md",
     "✔️ Nest JS/TypeORM",
-    "✔️ Nest JS/Module.md",
-    "✔️ Nest JS/Provider.md",
     "📦 Images/Pasted image 20231122121239.png",
-    "✔️ Nest JS/Entities.md",
     "✔️ Nest JS/자잘한",
     "📦 Images/Pasted image 20231120143154.png",
     "📦 Images/Pasted image 20231120143119.png",
