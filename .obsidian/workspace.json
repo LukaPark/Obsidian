@@ -13,7 +13,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "✔️ HTML5 & CSS3/input  관련 지리는 사실.md",
+                "file": "2023-11-29.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "8e2868eed78828d2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a1914f761ce96682",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2023-11-30.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "✔️ HTML5 & CSS3/input  관련 지리는 사실.md",
+                "file": "2023-11-30.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "✔️ HTML5 & CSS3/input  관련 지리는 사실.md",
+                "file": "2023-11-30.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "✔️ HTML5 & CSS3/input  관련 지리는 사실.md"
+                "file": "2023-11-30.md"
               }
             }
           },
@@ -154,9 +172,10 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "56bedc2236008ce3",
+  "active": "a1914f761ce96682",
   "lastOpenFiles": [
     "2023-11-29.md",
+    "2023-11-30.md",
     "✔️ HTML5 & CSS3/input  관련 지리는 사실.md",
     "✔️ HTML5 & CSS3/animation/SVG 드로잉 애니메이션.md",
     "✔️ HTML5 & CSS3/PC, Mobile 환경 구분.md",
@@ -187,7 +206,6 @@
     "🚀 회원관리 웹 + 앱 api/데이터 통계 관련.canvas",
     "관리자 회원가입.canvas",
     "2023-11-23.md",
-    "🚀 회원관리 웹 api/관리자 회원가입..md",
     "🚀 회원관리 웹 + 앱 api",
     "📦 Images/Pasted image 20231120142917.png",
     "✔️ Nest JS/TypeORM",
