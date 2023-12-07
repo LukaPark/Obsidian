@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📅 Calendar/2023-12-05.md",
+                "file": "2023-12-07.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "ec80834989407ddf",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📅 Calendar/2023-12-05.md",
+                "file": "2023-12-07.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📅 Calendar/2023-12-05.md",
+                "file": "2023-12-07.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📅 Calendar/2023-12-05.md"
+                "file": "2023-12-07.md"
               }
             }
           },
@@ -156,8 +157,10 @@
   },
   "active": "ebac48d3a22c783c",
   "lastOpenFiles": [
-    "📅 Calendar/2023-12-04.md",
+    "2023-12-06.md",
+    "2023-12-07.md",
     "📅 Calendar/2023-12-05.md",
+    "📅 Calendar/2023-12-04.md",
     "📅 Calendar/2023-12-02.md",
     "📅 Calendar/2023-12-01.md",
     "🚀 회원관리 웹 + 앱 api/사업자등록번호 조회 API.md",
@@ -183,9 +186,7 @@
     "📅 Calendar/2023-11-23.md",
     "📅 Calendar/2023-11-15.md",
     "📅 Calendar/2023-11-20.md",
-    "📖 Wiki.md",
     "📦 Images/Pasted image 20231124113031.png",
-    "무제 파일.md",
     "📦 Images/Pasted image 20231124105555.png",
     "관리자 회원가입.canvas",
     "🚀 회원관리 웹 + 앱 api",
