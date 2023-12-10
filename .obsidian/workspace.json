@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "c887b3740de06a0a",
+        "id": "812e1a214546f1d5",
         "type": "tabs",
         "children": [
           {
-            "id": "ebac48d3a22c783c",
+            "id": "23f329e66edf68bc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2023-12-08.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -48,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "berry",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,12 +61,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "ec80834989407ddf",
@@ -86,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-12-08.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-12-08.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2023-12-08.md"
-              }
+              "state": {}
             }
           },
           {
@@ -143,7 +135,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 376.5
+    "width": 376.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -155,10 +148,17 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "ebac48d3a22c783c",
+  "active": "23f329e66edf68bc",
   "lastOpenFiles": [
-    "2023-12-07.md",
+    "📅 Calendar/2023-11-02.md",
+    "🚣‍♂️ 베타테스터 관리 웹/무제 파일.canvas",
+    "🚣‍♂️ 베타테스터 관리 웹",
+    "✔️ Nest JS/TypeORM/DB 테이블 Schema 변경사항 불러오기.md",
+    "✔️ Nest JS/Entities.md",
+    "✔️ Nest JS/TypeORM/트랜잭션..md",
+    "✔️ Nest JS/TypeORM/마이그레이션..md",
     "2023-12-08.md",
+    "2023-12-07.md",
     "2023-12-06.md",
     "📅 Calendar/2023-12-05.md",
     "📅 Calendar/2023-12-04.md",
@@ -181,11 +181,6 @@
     "✔️ Next JS/Local Font 적용.md",
     "✔️ Next JS/Nextjs14 Drill/3. Font and Image.md",
     "📅 Calendar/2023-11-27.md",
-    "✔️ Nest JS/Intro.md",
-    "✔️ Nest JS/자잘한/슬라이딩 세션, 리프레쉬 토큰..md",
-    "📅 Calendar/2023-11-24.md",
-    "📅 Calendar/2023-11-23.md",
-    "📅 Calendar/2023-11-15.md",
     "📦 Images/Pasted image 20231124113031.png",
     "📦 Images/Pasted image 20231124105555.png",
     "관리자 회원가입.canvas",
@@ -205,7 +200,6 @@
     "📦 Images",
     "📅 Calendar",
     "🍴 ThreeJS/요소",
-    "🍴 ThreeJS",
-    "🍴 Framer Motion"
+    "🍴 ThreeJS"
   ]
 }
