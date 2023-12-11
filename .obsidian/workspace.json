@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "812e1a214546f1d5",
+        "id": "e9d66a9817e4aa82",
         "type": "tabs",
         "children": [
           {
-            "id": "23f329e66edf68bc",
+            "id": "3f6c512061ee2658",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "2023-12-11.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -82,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2023-12-11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2023-12-11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2023-12-11.md"
+              }
             }
           },
           {
@@ -135,8 +143,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 376.5,
-    "collapsed": true
+    "width": 376.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -148,8 +155,9 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "23f329e66edf68bc",
+  "active": "3f6c512061ee2658",
   "lastOpenFiles": [
+    "2023-12-11.md",
     "📅 Calendar/2023-11-02.md",
     "🚣‍♂️ 베타테스터 관리 웹/무제 파일.canvas",
     "🚣‍♂️ 베타테스터 관리 웹",
@@ -180,7 +188,6 @@
     "📅 Calendar/2023-11-28.md",
     "✔️ Next JS/Local Font 적용.md",
     "✔️ Next JS/Nextjs14 Drill/3. Font and Image.md",
-    "📅 Calendar/2023-11-27.md",
     "📦 Images/Pasted image 20231124113031.png",
     "📦 Images/Pasted image 20231124105555.png",
     "관리자 회원가입.canvas",
