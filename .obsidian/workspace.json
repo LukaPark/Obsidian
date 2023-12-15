@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-12-13.md",
+                "file": "✔️ Nest JS/TypeORM/DB 테이블 Schema 변경사항 불러오기.md",
                 "mode": "source",
                 "source": false
               }
@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "ec80834989407ddf",
@@ -86,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-12-13.md",
+                "file": "✔️ Nest JS/TypeORM/DB 테이블 Schema 변경사항 불러오기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-12-13.md",
+                "file": "✔️ Nest JS/TypeORM/DB 테이블 Schema 변경사항 불러오기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-12-13.md"
+                "file": "✔️ Nest JS/TypeORM/DB 테이블 Schema 변경사항 불러오기.md"
               }
             }
           },
@@ -143,7 +144,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 376.5
+    "width": 376.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -157,8 +159,8 @@
   },
   "active": "3f6c512061ee2658",
   "lastOpenFiles": [
-    "2023-12-12.md",
     "2023-12-13.md",
+    "2023-12-12.md",
     "2023-12-11.md",
     "📅 Calendar/2023-11-02.md",
     "🚣‍♂️ 베타테스터 관리 웹/무제 파일.canvas",
