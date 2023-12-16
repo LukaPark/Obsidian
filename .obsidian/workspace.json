@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "✔️ Nest JS/TypeORM/DB 테이블 Schema 변경사항 불러오기.md",
+                "file": "2023-12-16.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "✔️ Nest JS/TypeORM/DB 테이블 Schema 변경사항 불러오기.md",
+                "file": "2023-12-16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "✔️ Nest JS/TypeORM/DB 테이블 Schema 변경사항 불러오기.md",
+                "file": "2023-12-16.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "✔️ Nest JS/TypeORM/DB 테이블 Schema 변경사항 불러오기.md"
+                "file": "2023-12-16.md"
               }
             }
           },
@@ -144,8 +144,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 376.5,
-    "collapsed": true
+    "width": 376.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -159,13 +158,14 @@
   },
   "active": "3f6c512061ee2658",
   "lastOpenFiles": [
+    "✔️ Nest JS/TypeORM/DB 테이블 Schema 변경사항 불러오기.md",
+    "2023-12-16.md",
     "2023-12-13.md",
     "2023-12-12.md",
     "2023-12-11.md",
     "📅 Calendar/2023-11-02.md",
     "🚣‍♂️ 베타테스터 관리 웹/무제 파일.canvas",
     "🚣‍♂️ 베타테스터 관리 웹",
-    "✔️ Nest JS/TypeORM/DB 테이블 Schema 변경사항 불러오기.md",
     "✔️ Nest JS/Entities.md",
     "✔️ Nest JS/TypeORM/트랜잭션..md",
     "✔️ Nest JS/TypeORM/마이그레이션..md",
@@ -189,7 +189,6 @@
     "✔️ HTML5 & CSS3/SVG.md",
     "✔️ HTML5 & CSS3/Reset.css.md",
     "✔️ HTML5 & CSS3/CSS 기초.md",
-    "📅 Calendar/2023-11-28.md",
     "📦 Images/Pasted image 20231124113031.png",
     "📦 Images/Pasted image 20231124105555.png",
     "관리자 회원가입.canvas",
