@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📅 Calendar/2023-12-18.md",
+                "file": "2023-12-19.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📅 Calendar/2023-12-18.md",
+                "file": "2023-12-19.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📅 Calendar/2023-12-18.md",
+                "file": "2023-12-19.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📅 Calendar/2023-12-18.md"
+                "file": "2023-12-19.md"
               }
             }
           },
@@ -154,10 +154,11 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "94e91242ac6542fd",
+  "active": "3f6c512061ee2658",
   "lastOpenFiles": [
-    "📅 Calendar/2023-12-17.md",
     "📅 Calendar/2023-12-18.md",
+    "2023-12-19.md",
+    "📅 Calendar/2023-12-17.md",
     "📅 Calendar/2023-12-16.md",
     "✔️ Nest JS/TypeORM/DB 테이블 Schema 변경사항 불러오기.md",
     "📅 Calendar/2023-12-13.md",
@@ -186,7 +187,6 @@
     "✔️ HTML5 & CSS3/input  관련 지리는 사실.md",
     "✔️ HTML5 & CSS3/animation/SVG 드로잉 애니메이션.md",
     "✔️ HTML5 & CSS3/PC, Mobile 환경 구분.md",
-    "✔️ HTML5 & CSS3/SVG.md",
     "📦 Images/Pasted image 20231124113031.png",
     "📦 Images/Pasted image 20231124105555.png",
     "관리자 회원가입.canvas",
