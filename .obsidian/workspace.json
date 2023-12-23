@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-12-21.md",
+                "file": "✔️ Nest JS/TypeORM/Transaction.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "ec80834989407ddf",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-12-21.md",
+                "file": "✔️ Nest JS/TypeORM/Transaction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-12-21.md",
+                "file": "✔️ Nest JS/TypeORM/Transaction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-12-21.md"
+                "file": "✔️ Nest JS/TypeORM/Transaction.md"
               }
             }
           },
@@ -142,7 +143,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 376.5
+    "width": 376.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -157,6 +159,7 @@
   "active": "3f6c512061ee2658",
   "lastOpenFiles": [
     "2023-12-20.md",
+    "✔️ Nest JS/TypeORM/Transaction.md",
     "2023-12-21.md",
     "✔️ Nest JS/TypeORM/DB 테이블 Schema 변경사항 불러오기.md",
     "✔️ Nest JS/TypeORM/마이그레이션..md",
@@ -186,7 +189,6 @@
     "🚀 회원관리 웹 + 앱 api/앱 로그인 로직.canvas",
     "📅 Calendar/2023-11-30.md",
     "📅 Calendar/2023-11-29.md",
-    "✔️ HTML5 & CSS3/input  관련 지리는 사실.md",
     "📦 Images/Pasted image 20231124113031.png",
     "📦 Images/Pasted image 20231124105555.png",
     "관리자 회원가입.canvas",
