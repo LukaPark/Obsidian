@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "✔️ Nest JS/TypeORM/Transaction.md",
+                "file": "2023-12-27.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "✔️ Nest JS/TypeORM/Transaction.md",
+                "file": "2023-12-27.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "✔️ Nest JS/TypeORM/Transaction.md",
+                "file": "2023-12-27.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "✔️ Nest JS/TypeORM/Transaction.md"
+                "file": "2023-12-27.md"
               }
             }
           },
@@ -143,8 +143,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 376.5,
-    "collapsed": true
+    "width": 376.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -158,8 +157,9 @@
   },
   "active": "3f6c512061ee2658",
   "lastOpenFiles": [
-    "2023-12-20.md",
     "✔️ Nest JS/TypeORM/Transaction.md",
+    "2023-12-27.md",
+    "2023-12-20.md",
     "2023-12-21.md",
     "✔️ Nest JS/TypeORM/DB 테이블 Schema 변경사항 불러오기.md",
     "✔️ Nest JS/TypeORM/마이그레이션..md",
@@ -188,7 +188,6 @@
     "🚀 회원관리 웹 + 앱 api/회원가입 로직.canvas",
     "🚀 회원관리 웹 + 앱 api/앱 로그인 로직.canvas",
     "📅 Calendar/2023-11-30.md",
-    "📅 Calendar/2023-11-29.md",
     "📦 Images/Pasted image 20231124113031.png",
     "📦 Images/Pasted image 20231124105555.png",
     "관리자 회원가입.canvas",
