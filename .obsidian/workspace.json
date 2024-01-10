@@ -4,18 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "e9d66a9817e4aa82",
+        "id": "f2ae155ab671012b",
         "type": "tabs",
         "children": [
           {
-            "id": "3f6c512061ee2658",
+            "id": "468c75bc6d0bb812",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "2024-01-04.md",
-                "mode": "source",
-                "source": false
+                "file": "🚀 회원관리 웹 + 앱 api/회원가입 로직.canvas",
+                "viewState": {
+                  "x": 195,
+                  "y": -213,
+                  "zoom": -0.9771786270785306
+                }
               }
             }
           }
@@ -85,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-01-04.md",
+                "file": "🚀 회원관리 웹 + 앱 api/회원가입 로직.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-01-04.md",
+                "file": "🚀 회원관리 웹 + 앱 api/회원가입 로직.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-01-04.md"
+                "file": "🚀 회원관리 웹 + 앱 api/회원가입 로직.canvas"
               }
             }
           },
@@ -154,10 +157,14 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "3f6c512061ee2658",
+  "active": "468c75bc6d0bb812",
   "lastOpenFiles": [
-    "2024-01-03.md",
+    "🚀 회원관리 웹 + 앱 api/사업자등록번호 조회 API.md",
+    "🚀 회원관리 웹 + 앱 api/데이터 통계 관련.canvas",
+    "🚀 회원관리 웹 + 앱 api/앱 로그인 로직.canvas",
+    "🚣‍♂️ 베타테스터 관리 웹/무제 파일.canvas",
     "2024-01-04.md",
+    "2024-01-03.md",
     "2023-12-28.md",
     "2023-12-27.md",
     "✔️ Nest JS/TypeORM/Transaction.md",
@@ -173,7 +180,6 @@
     "📅 Calendar/2023-12-12.md",
     "📅 Calendar/2023-12-11.md",
     "📅 Calendar/2023-11-02.md",
-    "🚣‍♂️ 베타테스터 관리 웹/무제 파일.canvas",
     "🚣‍♂️ 베타테스터 관리 웹",
     "✔️ Nest JS/Entities.md",
     "✔️ Nest JS/TypeORM/트랜잭션..md",
@@ -183,10 +189,7 @@
     "📅 Calendar/2023-12-05.md",
     "📅 Calendar/2023-12-04.md",
     "📅 Calendar/2023-12-02.md",
-    "📅 Calendar/2023-12-01.md",
-    "🚀 회원관리 웹 + 앱 api/데이터 통계 관련.canvas",
     "🚀 회원관리 웹 + 앱 api/회원가입 로직.canvas",
-    "🚀 회원관리 웹 + 앱 api/앱 로그인 로직.canvas",
     "📦 Images/Pasted image 20231124113031.png",
     "📦 Images/Pasted image 20231124105555.png",
     "관리자 회원가입.canvas",
