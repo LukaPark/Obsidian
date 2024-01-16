@@ -11,14 +11,11 @@
             "id": "468c75bc6d0bb812",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "🚀 회원관리 웹 + 앱 api/회원가입 로직.canvas",
-                "viewState": {
-                  "x": 195,
-                  "y": -213,
-                  "zoom": -0.9771786270785306
-                }
+                "file": "2024-01-16.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -88,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🚀 회원관리 웹 + 앱 api/회원가입 로직.canvas",
+                "file": "2024-01-16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🚀 회원관리 웹 + 앱 api/회원가입 로직.canvas",
+                "file": "2024-01-16.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🚀 회원관리 웹 + 앱 api/회원가입 로직.canvas"
+                "file": "2024-01-16.md"
               }
             }
           },
@@ -159,6 +156,8 @@
   },
   "active": "468c75bc6d0bb812",
   "lastOpenFiles": [
+    "🚀 회원관리 웹 + 앱 api/회원가입 로직.canvas",
+    "2024-01-16.md",
     "🚀 회원관리 웹 + 앱 api/사업자등록번호 조회 API.md",
     "🚀 회원관리 웹 + 앱 api/데이터 통계 관련.canvas",
     "🚀 회원관리 웹 + 앱 api/앱 로그인 로직.canvas",
@@ -187,9 +186,6 @@
     "📅 Calendar/2023-12-07.md",
     "📅 Calendar/2023-12-06.md",
     "📅 Calendar/2023-12-05.md",
-    "📅 Calendar/2023-12-04.md",
-    "📅 Calendar/2023-12-02.md",
-    "🚀 회원관리 웹 + 앱 api/회원가입 로직.canvas",
     "📦 Images/Pasted image 20231124113031.png",
     "📦 Images/Pasted image 20231124105555.png",
     "관리자 회원가입.canvas",
