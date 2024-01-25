@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-01-16.md",
+                "file": "2024-01-25.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "pm2",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-01-16.md",
+                "file": "2024-01-25.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-01-16.md",
+                "file": "2024-01-25.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-01-16.md"
+                "file": "2024-01-25.md"
               }
             }
           },
@@ -156,22 +156,26 @@
   },
   "active": "468c75bc6d0bb812",
   "lastOpenFiles": [
+    "2024-01-24.md",
+    "2024-01-25.md",
+    "✔️ Nest JS/TypeORM/DB 테이블 Schema 변경사항 불러오기.md",
+    "✔️ Nest JS/TypeORM/트랜잭션..md",
+    "✔️ Nest JS/TypeORM/Transaction.md",
+    "✔️ Nest JS/자잘한/Validation Pipe.md",
+    "✔️ Nest JS/마이그레이션..md",
+    "📅 Calendar/2023-12-19.md",
+    "📅 Calendar/2024-01-16.md",
     "🚀 회원관리 웹 + 앱 api/회원가입 로직.canvas",
-    "2024-01-16.md",
     "🚀 회원관리 웹 + 앱 api/사업자등록번호 조회 API.md",
     "🚀 회원관리 웹 + 앱 api/데이터 통계 관련.canvas",
     "🚀 회원관리 웹 + 앱 api/앱 로그인 로직.canvas",
     "🚣‍♂️ 베타테스터 관리 웹/무제 파일.canvas",
-    "2024-01-04.md",
-    "2024-01-03.md",
-    "2023-12-28.md",
-    "2023-12-27.md",
-    "✔️ Nest JS/TypeORM/Transaction.md",
-    "2023-12-20.md",
-    "2023-12-21.md",
-    "✔️ Nest JS/TypeORM/DB 테이블 Schema 변경사항 불러오기.md",
-    "✔️ Nest JS/TypeORM/마이그레이션..md",
-    "2023-12-19.md",
+    "📅 Calendar/2024-01-04.md",
+    "📅 Calendar/2024-01-03.md",
+    "📅 Calendar/2023-12-28.md",
+    "📅 Calendar/2023-12-27.md",
+    "📅 Calendar/2023-12-20.md",
+    "📅 Calendar/2023-12-21.md",
     "📅 Calendar/2023-12-18.md",
     "📅 Calendar/2023-12-17.md",
     "📅 Calendar/2023-12-16.md",
@@ -181,11 +185,8 @@
     "📅 Calendar/2023-11-02.md",
     "🚣‍♂️ 베타테스터 관리 웹",
     "✔️ Nest JS/Entities.md",
-    "✔️ Nest JS/TypeORM/트랜잭션..md",
     "📅 Calendar/2023-12-08.md",
     "📅 Calendar/2023-12-07.md",
-    "📅 Calendar/2023-12-06.md",
-    "📅 Calendar/2023-12-05.md",
     "📦 Images/Pasted image 20231124113031.png",
     "📦 Images/Pasted image 20231124105555.png",
     "관리자 회원가입.canvas",
