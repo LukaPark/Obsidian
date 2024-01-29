@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-01-25.md",
+                "file": "2024-01-29.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-01-25.md",
+                "file": "2024-01-29.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-01-25.md",
+                "file": "2024-01-29.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-01-25.md"
+                "file": "2024-01-29.md"
               }
             }
           },
@@ -156,8 +156,9 @@
   },
   "active": "468c75bc6d0bb812",
   "lastOpenFiles": [
-    "2024-01-24.md",
     "2024-01-25.md",
+    "2024-01-29.md",
+    "2024-01-24.md",
     "✔️ Nest JS/TypeORM/DB 테이블 Schema 변경사항 불러오기.md",
     "✔️ Nest JS/TypeORM/트랜잭션..md",
     "✔️ Nest JS/TypeORM/Transaction.md",
@@ -186,7 +187,6 @@
     "🚣‍♂️ 베타테스터 관리 웹",
     "✔️ Nest JS/Entities.md",
     "📅 Calendar/2023-12-08.md",
-    "📅 Calendar/2023-12-07.md",
     "📦 Images/Pasted image 20231124113031.png",
     "📦 Images/Pasted image 20231124105555.png",
     "관리자 회원가입.canvas",
