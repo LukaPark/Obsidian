@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-02-23.md",
+                "file": "2024-02-26.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-02-23.md",
+                "file": "2024-02-26.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-02-23.md",
+                "file": "2024-02-26.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-02-23.md"
+                "file": "2024-02-26.md"
               }
             }
           },
@@ -157,8 +157,9 @@
   },
   "active": "468c75bc6d0bb812",
   "lastOpenFiles": [
-    "2024-02-08.md",
     "2024-02-23.md",
+    "2024-02-26.md",
+    "2024-02-08.md",
     "2024-02-07.md",
     "2024-02-01.md",
     "2024-01-31.md",
@@ -186,7 +187,6 @@
     "📅 Calendar/2023-12-18.md",
     "📅 Calendar/2023-12-17.md",
     "📅 Calendar/2023-12-16.md",
-    "📅 Calendar/2023-12-13.md",
     "🚣‍♂️ 베타테스터 관리 웹",
     "📦 Images/Pasted image 20231124113031.png",
     "📦 Images/Pasted image 20231124105555.png",
