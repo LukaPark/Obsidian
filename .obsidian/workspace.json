@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f2ae155ab671012b",
+        "id": "6531fd7f90226367",
         "type": "tabs",
         "children": [
           {
-            "id": "468c75bc6d0bb812",
+            "id": "cd8445af62e23717",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-02-26.md",
+                "file": "2024-02-27.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "pm2",
+                "query": "git",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -86,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-02-26.md",
+                "file": "2024-02-27.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-02-26.md",
+                "file": "2024-02-27.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-02-26.md"
+                "file": "2024-02-27.md"
               }
             }
           },
@@ -143,7 +144,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 376.5
+    "width": 376.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -155,38 +157,41 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "468c75bc6d0bb812",
+  "active": "cd8445af62e23717",
   "lastOpenFiles": [
-    "2024-02-23.md",
-    "2024-02-26.md",
-    "2024-02-08.md",
-    "2024-02-07.md",
-    "2024-02-01.md",
-    "2024-01-31.md",
-    "2024-01-29.md",
-    "2024-01-25.md",
-    "2024-01-24.md",
+    "2024-02-28.md",
+    "2024-02-29.md",
+    "2024-03-04.md",
+    "2024-03-05.md",
+    "2024-03-06.md",
+    "2024-03-11.md",
+    "2024-03-13.md",
+    "✔️ Next JS/Nextjs14 Drill/6. Setting Up Database.md",
+    "✔️ AWS/EC2.md",
+    "✔️ AWS/VPC.md",
+    "2024-02-27.md",
+    "📅 Calendar/2024-02-23.md",
+    "📅 Calendar/2024-02-26.md",
+    "론픽/Google Analytic4 와 Google Tag Manager 를 이용해 사용자 유입 경로 분석 및 이벤트 전환 분석.md",
+    "스크린샷 2024-03-06 오전 10.19.04.png",
+    "론픽/무제 파일.canvas",
+    "론픽/레거시 서버.md",
+    "📅 Calendar/2024-01-24.md",
+    "론픽",
+    "📅 Calendar/2024-01-25.md",
+    "📅 Calendar/2024-01-31.md",
+    "📅 Calendar/2024-02-08.md",
+    "📅 Calendar/2024-02-07.md",
+    "📅 Calendar/2024-02-01.md",
+    "📅 Calendar/2024-01-29.md",
     "✔️ Nest JS/TypeORM/DB 테이블 Schema 변경사항 불러오기.md",
     "✔️ Nest JS/TypeORM/트랜잭션..md",
     "✔️ Nest JS/TypeORM/Transaction.md",
     "✔️ Nest JS/자잘한/Validation Pipe.md",
-    "✔️ Nest JS/마이그레이션..md",
-    "📅 Calendar/2023-12-19.md",
-    "📅 Calendar/2024-01-16.md",
     "🚀 회원관리 웹 + 앱 api/회원가입 로직.canvas",
-    "🚀 회원관리 웹 + 앱 api/사업자등록번호 조회 API.md",
     "🚀 회원관리 웹 + 앱 api/데이터 통계 관련.canvas",
     "🚀 회원관리 웹 + 앱 api/앱 로그인 로직.canvas",
     "🚣‍♂️ 베타테스터 관리 웹/무제 파일.canvas",
-    "📅 Calendar/2024-01-04.md",
-    "📅 Calendar/2024-01-03.md",
-    "📅 Calendar/2023-12-28.md",
-    "📅 Calendar/2023-12-27.md",
-    "📅 Calendar/2023-12-20.md",
-    "📅 Calendar/2023-12-21.md",
-    "📅 Calendar/2023-12-18.md",
-    "📅 Calendar/2023-12-17.md",
-    "📅 Calendar/2023-12-16.md",
     "🚣‍♂️ 베타테스터 관리 웹",
     "📦 Images/Pasted image 20231124113031.png",
     "📦 Images/Pasted image 20231124105555.png",
@@ -202,11 +207,9 @@
     "📦 Images/스크린샷 2023-11-09 오전 10.10.01.png",
     "📦 Images/스크린샷 2023-11-09 14.35.01.png",
     "📦 Images/Pasted image 20231109142505.png",
-    "📦 Images/Pasted image 20231109142227.png",
     "✔️ Next JS/Nextjs14 Drill",
     "📦 Images",
     "📅 Calendar",
-    "🍴 ThreeJS/요소",
-    "🍴 ThreeJS"
+    "🍴 ThreeJS/요소"
   ]
 }
