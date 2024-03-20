@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-03-18.md",
+                "file": "2024-03-20.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,13 +65,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "ec80834989407ddf",
@@ -87,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-03-18.md",
+                "file": "2024-03-20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-03-18.md",
+                "file": "2024-03-20.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-03-18.md"
+                "file": "2024-03-20.md"
               }
             }
           },
@@ -153,20 +151,26 @@
       "canvas:새 캔버스 만들기": false,
       "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
-      "command-palette:명령어 팔레트 열기": false
+      "command-palette:명령어 팔레트 열기": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "cd8445af62e23717",
   "lastOpenFiles": [
-    "2024-02-27.md",
+    "2024-03-06.md",
+    "2024-03-11.md",
+    "2024-03-13.md",
     "2024-03-18.md",
+    "론픽/논현/2024.03.20.md",
+    "Excalidraw/Drawing 2024-03-20 14.33.20.excalidraw.md",
+    "Excalidraw",
+    "론픽/논현",
+    "2024-03-20.md",
+    "2024-02-27.md",
     "2024-02-28.md",
     "2024-02-29.md",
     "2024-03-04.md",
     "2024-03-05.md",
-    "2024-03-06.md",
-    "2024-03-11.md",
-    "2024-03-13.md",
     "✔️ Next JS/Nextjs14 Drill/6. Setting Up Database.md",
     "✔️ AWS/EC2.md",
     "✔️ AWS/VPC.md",
@@ -184,9 +188,6 @@
     "📅 Calendar/2024-02-07.md",
     "📅 Calendar/2024-02-01.md",
     "📅 Calendar/2024-01-29.md",
-    "✔️ Nest JS/TypeORM/DB 테이블 Schema 변경사항 불러오기.md",
-    "✔️ Nest JS/TypeORM/트랜잭션..md",
-    "✔️ Nest JS/TypeORM/Transaction.md",
     "🚀 회원관리 웹 + 앱 api/회원가입 로직.canvas",
     "🚀 회원관리 웹 + 앱 api/데이터 통계 관련.canvas",
     "🚀 회원관리 웹 + 앱 api/앱 로그인 로직.canvas",
@@ -207,8 +208,6 @@
     "📦 Images/스크린샷 2023-11-09 14.35.01.png",
     "📦 Images/Pasted image 20231109142505.png",
     "✔️ Next JS/Nextjs14 Drill",
-    "📦 Images",
-    "📅 Calendar",
-    "🍴 ThreeJS/요소"
+    "📦 Images"
   ]
 }

@@ -1,8 +1,9 @@
 {
-  "accentColor": "#5cf56e",
-  "theme": "moonstone",
-  "interfaceFontFamily": "SF Pro Text",
+  "accentColor": "",
+  "theme": "system",
+  "interfaceFontFamily": "Al Bayan",
   "monospaceFontFamily": "SF Pro",
-  "textFontFamily": "나눔스퀘어OTF,나눔스퀘어,SF Pro Rounded,Pretendard Variable,SF Pro",
-  "baseFontSize": 14
+  "textFontFamily": "Ayuthaya",
+  "baseFontSize": 14,
+  "nativeMenus": true
 }
