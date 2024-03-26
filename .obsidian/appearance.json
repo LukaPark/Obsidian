@@ -1,9 +1,10 @@
 {
   "accentColor": "",
   "theme": "system",
-  "interfaceFontFamily": "Al Bayan",
-  "monospaceFontFamily": "SF Pro",
-  "textFontFamily": "Ayuthaya",
-  "baseFontSize": 14,
-  "nativeMenus": true
+  "interfaceFontFamily": "Hannotate TC",
+  "monospaceFontFamily": "Comic Sans MS",
+  "textFontFamily": "Hannotate TC",
+  "baseFontSize": 12,
+  "nativeMenus": true,
+  "cssTheme": "Minimal"
 }

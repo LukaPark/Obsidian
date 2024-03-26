@@ -20,3 +20,6 @@ typeorm-model-generator 를 사용.
 ```cli
 yarn typeorm-model-generator -h [host] -d [dbname] -p [portnumber] -u [userid] -x [password] -e [enginename] -o [directory]
 ```
+
+* 회원 관리 백엔드
+* yarn typeorm-model-generator -h ronfic-main.cj7pime50z9o.ap-northeast-2.rds.amazonaws.com -d ronfic_main -p 5432 -u ronfic -x \*ronfic00245\! -e postgres -o ./src/entities/integrated_backend
