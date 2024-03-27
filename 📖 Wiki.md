@@ -11,3 +11,8 @@
 #Sequential 잇달아 일어나는, 연속하는, 순차적
 #Parallel : 평행의, 병렬.
 #suspense : 미결, 미정 (*상태*)
+
+#occupation: 직업, 업무, 일; 종사(하고있는 활동); 심심풀이
+	a very dangerous occupation: 몹시 위험한 일
+	Please state your name, address, and occupation
+	: 성명, 주소, 직업을 말하시오.

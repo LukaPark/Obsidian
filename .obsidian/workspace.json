@@ -4,24 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "9accb934487ab424",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "ac4c0b32d148f607",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "📅 Calendar/2024-03-22.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "91eee2e4c4da255b",
         "type": "tabs",
         "children": [
@@ -31,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-03-26.md",
+                "file": "2024-03-27.md",
                 "mode": "source",
                 "source": false
               }
@@ -83,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -105,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📅 Calendar/2024-03-22.md",
+                "file": "2024-03-27.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📅 Calendar/2024-03-22.md",
+                "file": "2024-03-27.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📅 Calendar/2024-03-22.md"
+                "file": "2024-03-27.md"
               }
             }
           },
@@ -162,8 +143,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 256.5,
-    "collapsed": true
+    "width": 256.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -177,15 +157,17 @@
       "random-note:랜덤 노트 열기": false
     }
   },
-  "active": "ac4c0b32d148f607",
+  "active": "6e031a8a23f740ca",
   "lastOpenFiles": [
+    "📖 Wiki.md",
+    "2024-03-27.md",
+    "빅데이터분석기사/필기/딥러닝.md",
     "2024-03-26.md",
     "📅 Calendar/2024-03-22.md",
     "2024-03-25.md",
     "✔️ Nest JS/TypeORM/DB 테이블 Schema 변경사항 불러오기.md",
     "✔️ Nest JS/마이그레이션..md",
     "Excalidraw/Drawing 2024-03-26 14.10.57.excalidraw.md",
-    "빅데이터분석기사/필기/딥러닝.md",
     "빅데이터분석기사/필기/빅데이터의 이해.md",
     "빅데이터분석기사/필기/빅데이터.md",
     "🍴 Framer Motion/소개..md",
@@ -213,8 +195,6 @@
     "론픽/논현",
     "📅 Calendar/2024-02-28.md",
     "📅 Calendar/2024-02-29.md",
-    "📅 Calendar/2024-03-04.md",
-    "📅 Calendar/2024-03-05.md",
     "📦 Images/스크린샷 2024-03-06 오전 10.19.04.png",
     "론픽/무제 파일.canvas",
     "론픽",
