@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-03-29.md",
+                "file": "2024-04-02.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-03-29.md",
+                "file": "2024-04-02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-03-29.md",
+                "file": "2024-04-02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-03-29.md"
+                "file": "2024-04-02.md"
               }
             }
           },
@@ -159,7 +159,10 @@
   },
   "active": "6e031a8a23f740ca",
   "lastOpenFiles": [
+    "✔️ Nest JS/TypeORM/DB 테이블 Schema 변경사항 불러오기.md",
+    "2024-04-02.md",
     "2024-04-01.md",
+    "2024-03-28.md",
     "2024-03-29.md",
     "2024-03-25.md",
     "📅 Calendar/2024-03-22.md",
@@ -167,13 +170,11 @@
     "📅 Calendar/2024-03-18.md",
     "📅 Calendar/2024-03-13.md",
     "📅 Calendar/2024-03-11.md",
-    "2024-03-28.md",
     "빅데이터분석기사/필기/개인정보 보호.md",
     "2024-03-27.md",
     "2024-03-26.md",
     "📖 Wiki.md",
     "빅데이터분석기사/필기/딥러닝.md",
-    "✔️ Nest JS/TypeORM/DB 테이블 Schema 변경사항 불러오기.md",
     "✔️ Nest JS/마이그레이션..md",
     "Excalidraw/Drawing 2024-03-26 14.10.57.excalidraw.md",
     "빅데이터분석기사/필기/빅데이터의 이해.md",
@@ -192,7 +193,6 @@
     "Pasted image 20240322181537.png",
     "🚣‍♂️ 베타테스터 관리 웹/무제 파일.canvas",
     "론픽/사용량 분석",
-    "📅 Calendar/2024-02-27.md",
     "Excalidraw",
     "론픽/논현",
     "📦 Images/스크린샷 2024-03-06 오전 10.19.04.png",
