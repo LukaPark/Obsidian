@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-04-04.md",
+                "file": "2024-04-09.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-04-04.md",
+                "file": "2024-04-09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-04-04.md",
+                "file": "2024-04-09.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-04-04.md"
+                "file": "2024-04-09.md"
               }
             }
           },
@@ -159,9 +159,10 @@
   },
   "active": "6e031a8a23f740ca",
   "lastOpenFiles": [
-    "✔️ Nest JS/TypeORM/DB 테이블 Schema 변경사항 불러오기.md",
-    "2024-04-04.md",
     "2024-04-03.md",
+    "2024-04-04.md",
+    "2024-04-09.md",
+    "✔️ Nest JS/TypeORM/DB 테이블 Schema 변경사항 불러오기.md",
     "2024-04-02.md",
     "2024-04-01.md",
     "2024-03-29.md",
@@ -184,7 +185,6 @@
     "🍴 Framer Motion/소개..md",
     "✔️ JS. TS/JS Module/0. 모듈.md",
     "Excalidraw/Drawing 2024-03-26 14.22.46.excalidraw.md",
-    "Excalidraw/Drawing 2024-03-20 14.33.20.excalidraw.md",
     "Excalidraw/NanumYaGeunHaNeunGimJuIm.ttf",
     "Excalidraw/NanumYeoReumGeurSsi.ttf",
     "Excalidraw/NanumMongDor.ttf",
