@@ -3,7 +3,7 @@
   "theme": "system",
   "interfaceFontFamily": "Hannotate TC",
   "monospaceFontFamily": "Comic Sans MS",
-  "textFontFamily": "Hannotate TC",
+  "textFontFamily": "IBM Plex Sans KR",
   "baseFontSize": 12,
   "nativeMenus": true,
   "cssTheme": "Minimal"
