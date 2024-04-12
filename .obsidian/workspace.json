@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "머신러닝/Must Have 데싸노트의 실전에서 통하는 머신러닝/무제 파일.md",
+                "file": "2024-04-12.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "머신러닝/Must Have 데싸노트의 실전에서 통하는 머신러닝/무제 파일.md",
+                "file": "2024-04-12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "머신러닝/Must Have 데싸노트의 실전에서 통하는 머신러닝/무제 파일.md",
+                "file": "2024-04-12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "머신러닝/Must Have 데싸노트의 실전에서 통하는 머신러닝/무제 파일.md"
+                "file": "2024-04-12.md"
               }
             }
           },
@@ -142,8 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 256.5,
-    "collapsed": true
+    "width": 256.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -159,8 +158,9 @@
   },
   "active": "b8624b10980a2c44",
   "lastOpenFiles": [
-    "📦 Images/스크린샷 2024-04-11 오후 2.46.17.png",
     "머신러닝/Must Have 데싸노트의 실전에서 통하는 머신러닝/무제 파일.md",
+    "2024-04-12.md",
+    "📦 Images/스크린샷 2024-04-11 오후 2.46.17.png",
     "✔️ 정보처리기사/실기/무제 파일.md",
     "머신러닝/Must Have 데싸노트의 실전에서 통하는 머신러닝",
     "머신러닝",
