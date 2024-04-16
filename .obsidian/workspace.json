@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-04-12.md",
+                "file": "2024-04-16.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-04-12.md",
+                "file": "2024-04-16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-04-12.md",
+                "file": "2024-04-16.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-04-12.md"
+                "file": "2024-04-16.md"
               }
             }
           },
@@ -158,8 +158,9 @@
   },
   "active": "b8624b10980a2c44",
   "lastOpenFiles": [
-    "📅 Calendar/2024-04-09.md",
     "2024-04-12.md",
+    "2024-04-16.md",
+    "📅 Calendar/2024-04-09.md",
     "머신러닝/Must Have 데싸노트의 실전에서 통하는 머신러닝/무제 파일.md",
     "📦 Images/스크린샷 2024-04-11 오후 2.46.17.png",
     "✔️ 정보처리기사/실기/무제 파일.md",
@@ -188,7 +189,6 @@
     "📅 Calendar/2024-03-26.md",
     "빅데이터분석기사/필기/딥러닝.md",
     "✔️ Nest JS/마이그레이션..md",
-    "Excalidraw/Drawing 2024-03-26 14.10.57.excalidraw.md",
     "Excalidraw/NanumYaGeunHaNeunGimJuIm.ttf",
     "Excalidraw/NanumYeoReumGeurSsi.ttf",
     "Excalidraw/NanumMongDor.ttf",
