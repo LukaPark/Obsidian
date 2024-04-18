@@ -4,18 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "9fb5817016bcc34c",
+        "id": "cb7055c78a68e9c6",
         "type": "tabs",
         "children": [
           {
-            "id": "b8624b10980a2c44",
+            "id": "f5ed3de47ef1ae66",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "2024-04-16.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Drawing 2024-04-17 17.29.29.excalidraw.md"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-04-16.md",
+                "file": "Excalidraw/Drawing 2024-04-17 17.29.29.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-04-16.md",
+                "file": "Excalidraw/Drawing 2024-04-17 17.29.29.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-04-16.md"
+                "file": "Excalidraw/Drawing 2024-04-17 17.29.29.excalidraw.md"
               }
             }
           },
@@ -142,7 +140,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 256.5
+    "width": 256.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -156,10 +155,18 @@
       "random-note:랜덤 노트 열기": false
     }
   },
-  "active": "b8624b10980a2c44",
+  "active": "f5ed3de47ef1ae66",
   "lastOpenFiles": [
-    "2024-04-12.md",
+    "2024-04-17.md",
+    "론픽/리앤핏/운동처방.md",
+    "Excalidraw/Drawing 2024-04-17 17.29.29.excalidraw.md",
+    "Excalidraw/Drawing 2024-03-26 14.10.57.excalidraw.md",
+    "Excalidraw/Drawing 2024-04-17 17.29.24.excalidraw.md",
+    "🍴 ThreeJS/요소/Texture.md",
+    "론픽/리앤핏/무제 파일.canvas",
+    "론픽/리앤핏",
     "2024-04-16.md",
+    "2024-04-12.md",
     "📅 Calendar/2024-04-09.md",
     "머신러닝/Must Have 데싸노트의 실전에서 통하는 머신러닝/무제 파일.md",
     "📦 Images/스크린샷 2024-04-11 오후 2.46.17.png",
@@ -183,12 +190,6 @@
     "📅 Calendar/2024-03-20.md",
     "📅 Calendar/2024-03-18.md",
     "📅 Calendar/2024-03-13.md",
-    "📅 Calendar/2024-03-11.md",
-    "빅데이터분석기사/필기/개인정보 보호.md",
-    "📅 Calendar/2024-03-27.md",
-    "📅 Calendar/2024-03-26.md",
-    "빅데이터분석기사/필기/딥러닝.md",
-    "✔️ Nest JS/마이그레이션..md",
     "Excalidraw/NanumYaGeunHaNeunGimJuIm.ttf",
     "Excalidraw/NanumYeoReumGeurSsi.ttf",
     "Excalidraw/NanumMongDor.ttf",
@@ -196,7 +197,6 @@
     "빅데이터분석기사",
     "🚣‍♂️ 베타테스터 관리 웹/무제 파일.canvas",
     "론픽/사용량 분석",
-    "Excalidraw",
     "📦 Images/스크린샷 2024-03-06 오전 10.19.04.png",
     "론픽/무제 파일.canvas",
     "🚀 회원관리 웹 + 앱 api/회원가입 로직.canvas",
