@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "cb7055c78a68e9c6",
+        "id": "cbfcad12e7c97167",
         "type": "tabs",
         "children": [
           {
-            "id": "f5ed3de47ef1ae66",
+            "id": "a21253e34ac22907",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2024-04-17 17.29.29.excalidraw.md"
+                "file": "✔️ 정보처리기사/실기/무제 파일 1.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-04-17 17.29.29.excalidraw.md",
+                "file": "✔️ 정보처리기사/실기/무제 파일 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-04-17 17.29.29.excalidraw.md",
+                "file": "✔️ 정보처리기사/실기/무제 파일 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-04-17 17.29.29.excalidraw.md"
+                "file": "✔️ 정보처리기사/실기/무제 파일 1.md"
               }
             }
           },
@@ -155,11 +157,25 @@
       "random-note:랜덤 노트 열기": false
     }
   },
-  "active": "f5ed3de47ef1ae66",
+  "active": "a21253e34ac22907",
   "lastOpenFiles": [
+    "Pasted image 20240422165202.png",
+    "Pasted image 20240422165056.png",
+    "Pasted image 20240422164853.png",
+    "Pasted image 20240422164834.png",
+    "✔️ 정보처리기사/실기/무제 파일.md",
+    "✔️ 정보처리기사/실기/무제 파일 1.md",
+    "Studies/Web.dev/반응형 디자인.md",
+    "2024-04-22.md",
+    "Studies/Web.dev",
     "2024-04-17.md",
-    "론픽/리앤핏/운동처방.md",
+    "Studies/Docker/Docker.md",
+    "Pasted image 20240419141633.png",
+    "Pasted image 20240419140611.png",
+    "Studies/Docker",
+    "Studies",
     "Excalidraw/Drawing 2024-04-17 17.29.29.excalidraw.md",
+    "론픽/리앤핏/운동처방.md",
     "Excalidraw/Drawing 2024-03-26 14.10.57.excalidraw.md",
     "Excalidraw/Drawing 2024-04-17 17.29.24.excalidraw.md",
     "🍴 ThreeJS/요소/Texture.md",
@@ -170,7 +186,6 @@
     "📅 Calendar/2024-04-09.md",
     "머신러닝/Must Have 데싸노트의 실전에서 통하는 머신러닝/무제 파일.md",
     "📦 Images/스크린샷 2024-04-11 오후 2.46.17.png",
-    "✔️ 정보처리기사/실기/무제 파일.md",
     "머신러닝/Must Have 데싸노트의 실전에서 통하는 머신러닝",
     "머신러닝",
     "✔️ 정보처리기사/요구사항 확인 2.md",
@@ -185,18 +200,10 @@
     "📅 Calendar/2024-04-02.md",
     "📅 Calendar/2024-04-01.md",
     "📅 Calendar/2024-03-29.md",
-    "📅 Calendar/2024-03-28.md",
-    "📅 Calendar/2024-03-22.md",
-    "📅 Calendar/2024-03-20.md",
-    "📅 Calendar/2024-03-18.md",
-    "📅 Calendar/2024-03-13.md",
     "Excalidraw/NanumYaGeunHaNeunGimJuIm.ttf",
     "Excalidraw/NanumYeoReumGeurSsi.ttf",
     "Excalidraw/NanumMongDor.ttf",
-    "빅데이터분석기사/필기",
-    "빅데이터분석기사",
     "🚣‍♂️ 베타테스터 관리 웹/무제 파일.canvas",
-    "론픽/사용량 분석",
     "📦 Images/스크린샷 2024-03-06 오전 10.19.04.png",
     "론픽/무제 파일.canvas",
     "🚀 회원관리 웹 + 앱 api/회원가입 로직.canvas",
@@ -204,11 +211,6 @@
     "🚀 회원관리 웹 + 앱 api/앱 로그인 로직.canvas",
     "📦 Images/Pasted image 20231124113031.png",
     "📦 Images/Pasted image 20231124105555.png",
-    "관리자 회원가입.canvas",
-    "📦 Images/Pasted image 20231120142917.png",
-    "📦 Images/Pasted image 20231122121239.png",
-    "📦 Images/Pasted image 20231120143154.png",
-    "📦 Images/Pasted image 20231120143119.png",
-    "📦 Images/스크린샷 2023-11-09 오전 10.10.01.png"
+    "관리자 회원가입.canvas"
   ]
 }
