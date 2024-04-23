@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "✔️ 정보처리기사/실기/무제 파일 1.md",
+                "file": "2024-04-23.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "✔️ 정보처리기사/실기/무제 파일 1.md",
+                "file": "2024-04-23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "✔️ 정보처리기사/실기/무제 파일 1.md",
+                "file": "2024-04-23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "✔️ 정보처리기사/실기/무제 파일 1.md"
+                "file": "2024-04-23.md"
               }
             }
           },
@@ -142,8 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 256.5,
-    "collapsed": true
+    "width": 256.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -159,12 +158,13 @@
   },
   "active": "a21253e34ac22907",
   "lastOpenFiles": [
+    "✔️ 정보처리기사/실기/무제 파일 1.md",
+    "2024-04-23.md",
     "Pasted image 20240422165202.png",
     "Pasted image 20240422165056.png",
     "Pasted image 20240422164853.png",
     "Pasted image 20240422164834.png",
     "✔️ 정보처리기사/실기/무제 파일.md",
-    "✔️ 정보처리기사/실기/무제 파일 1.md",
     "Studies/Web.dev/반응형 디자인.md",
     "2024-04-22.md",
     "Studies/Web.dev",
@@ -210,7 +210,6 @@
     "🚀 회원관리 웹 + 앱 api/데이터 통계 관련.canvas",
     "🚀 회원관리 웹 + 앱 api/앱 로그인 로직.canvas",
     "📦 Images/Pasted image 20231124113031.png",
-    "📦 Images/Pasted image 20231124105555.png",
     "관리자 회원가입.canvas"
   ]
 }
