@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📅 Calendar/2024-05-03.md",
+                "file": "Studies/Test in FE.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📅 Calendar/2024-05-03.md",
+                "file": "Studies/Test in FE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📅 Calendar/2024-05-03.md",
+                "file": "Studies/Test in FE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📅 Calendar/2024-05-03.md"
+                "file": "Studies/Test in FE.md"
               }
             }
           },
@@ -157,11 +157,12 @@
       "random-note:랜덤 노트 열기": false
     }
   },
-  "active": "94e91242ac6542fd",
+  "active": "a21253e34ac22907",
   "lastOpenFiles": [
-    "📦 Images/Pasted image 20240419140611.png",
     "📅 Calendar/2024-05-03.md",
+    "Studies/Test in FE.md",
     "자격증/ADsP/38회 기출..md",
+    "📦 Images/Pasted image 20240419140611.png",
     "자격증/무제 파일.md",
     "자격증/ADsP",
     "📅 Calendar/2024-05-02.md",
