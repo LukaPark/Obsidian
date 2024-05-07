@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Studies/Test in FE.md",
+                "file": "2024-05-07.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Studies/Test in FE.md",
+                "file": "2024-05-07.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Studies/Test in FE.md",
+                "file": "2024-05-07.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Studies/Test in FE.md"
+                "file": "2024-05-07.md"
               }
             }
           },
@@ -142,8 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 256.5,
-    "collapsed": true
+    "width": 256.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -159,8 +158,9 @@
   },
   "active": "a21253e34ac22907",
   "lastOpenFiles": [
-    "📅 Calendar/2024-05-03.md",
     "Studies/Test in FE.md",
+    "2024-05-07.md",
+    "📅 Calendar/2024-05-03.md",
     "자격증/ADsP/38회 기출..md",
     "📦 Images/Pasted image 20240419140611.png",
     "자격증/무제 파일.md",
@@ -203,7 +203,6 @@
     "✔️ 정보처리기사/요구사항 확인 1.md",
     "📦 Images/Pasted image 20240322181537.png",
     "📖 Wiki.md",
-    "📅 Calendar/2024-03-25.md",
     "🚣‍♂️ 베타테스터 관리 웹/무제 파일.canvas",
     "📦 Images/스크린샷 2024-03-06 오전 10.19.04.png",
     "론픽/무제 파일.canvas",
