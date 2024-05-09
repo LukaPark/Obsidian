@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-05-08.md",
+                "file": "2024-05-09.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "ec80834989407ddf",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-05-08.md",
+                "file": "2024-05-09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-05-08.md",
+                "file": "2024-05-09.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-05-08.md"
+                "file": "2024-05-09.md"
               }
             }
           },
@@ -159,9 +158,12 @@
   },
   "active": "a21253e34ac22907",
   "lastOpenFiles": [
-    "2024-05-07.md",
-    "2024-05-08.md",
+    "자격증/ADsP/기출 모의 고사.md",
+    "2024-05-09.md",
+    "자격증/ADsP/21~35회 단답형 기출 모음.md",
     "자격증/ADsP/38회 기출..md",
+    "2024-05-08.md",
+    "2024-05-07.md",
     "Studies/Test in FE.md",
     "📅 Calendar/2024-05-03.md",
     "📦 Images/Pasted image 20240419140611.png",
@@ -196,13 +198,10 @@
     "📅 Calendar/2024-04-16.md",
     "📅 Calendar/2024-04-12.md",
     "📅 Calendar/2024-04-09.md",
-    "머신러닝/Must Have 데싸노트의 실전에서 통하는 머신러닝/무제 파일.md",
     "📦 Images/스크린샷 2024-04-11 오후 2.46.17.png",
     "머신러닝/Must Have 데싸노트의 실전에서 통하는 머신러닝",
     "머신러닝",
-    "✔️ 정보처리기사/요구사항 확인 2.md",
     "✔️ 정보처리기사/실기",
-    "✔️ 정보처리기사/요구사항 확인 1.md",
     "📦 Images/Pasted image 20240322181537.png",
     "🚣‍♂️ 베타테스터 관리 웹/무제 파일.canvas",
     "📦 Images/스크린샷 2024-03-06 오전 10.19.04.png",
