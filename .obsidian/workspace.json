@@ -13,9 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-05-09.md",
+                "file": "2024-05-10.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "524081f5c300bc7a",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-05-10 10.43.50.excalidraw.md"
               }
             }
           }
@@ -85,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-05-09.md",
+                "file": "2024-05-10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-05-09.md",
+                "file": "2024-05-10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-05-09.md"
+                "file": "2024-05-10.md"
               }
             }
           },
@@ -158,8 +168,10 @@
   },
   "active": "a21253e34ac22907",
   "lastOpenFiles": [
-    "자격증/ADsP/기출 모의 고사.md",
+    "Excalidraw/Drawing 2024-05-10 10.43.50.excalidraw.md",
+    "2024-05-10.md",
     "2024-05-09.md",
+    "자격증/ADsP/기출 모의 고사.md",
     "자격증/ADsP/21~35회 단답형 기출 모음.md",
     "자격증/ADsP/38회 기출..md",
     "2024-05-08.md",
@@ -196,8 +208,6 @@
     "론픽/리앤핏/무제 파일.canvas",
     "론픽/리앤핏",
     "📅 Calendar/2024-04-16.md",
-    "📅 Calendar/2024-04-12.md",
-    "📅 Calendar/2024-04-09.md",
     "📦 Images/스크린샷 2024-04-11 오후 2.46.17.png",
     "머신러닝/Must Have 데싸노트의 실전에서 통하는 머신러닝",
     "머신러닝",
