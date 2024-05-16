@@ -13,19 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📅 Calendar/2024-05-07.md",
+                "file": "2024-05-16.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "524081f5c300bc7a",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-05-10 10.43.50.excalidraw.md"
               }
             }
           }
@@ -95,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📅 Calendar/2024-05-07.md",
+                "file": "2024-05-16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📅 Calendar/2024-05-07.md",
+                "file": "2024-05-16.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📅 Calendar/2024-05-07.md"
+                "file": "2024-05-16.md"
               }
             }
           },
@@ -166,18 +156,21 @@
       "random-note:랜덤 노트 열기": false
     }
   },
-  "active": "94e91242ac6542fd",
+  "active": "a21253e34ac22907",
   "lastOpenFiles": [
+    "2024-05-15.md",
+    "2024-05-16.md",
+    "2024-05-14.md",
     "📅 Calendar/2024-05-10.md",
-    "Excalidraw/Drawing 2024-05-10 10.43.50.excalidraw.md",
+    "📅 Calendar/2024-05-07.md",
+    "📅 Calendar/2024-05-08.md",
     "📅 Calendar/2024-05-09.md",
+    "📅 Calendar/2024-05-03.md",
+    "Excalidraw/Drawing 2024-05-10 10.43.50.excalidraw.md",
     "자격증/ADsP/기출 모의 고사.md",
     "자격증/ADsP/21~35회 단답형 기출 모음.md",
     "자격증/ADsP/38회 기출..md",
-    "📅 Calendar/2024-05-08.md",
-    "📅 Calendar/2024-05-07.md",
     "Studies/Test in FE.md",
-    "📅 Calendar/2024-05-03.md",
     "📦 Images/Pasted image 20240419140611.png",
     "자격증/무제 파일.md",
     "자격증/ADsP",
@@ -203,11 +196,8 @@
     "Excalidraw/Drawing 2024-04-17 17.29.29.excalidraw.md",
     "론픽/리앤핏/운동처방.md",
     "Excalidraw/Drawing 2024-03-26 14.10.57.excalidraw.md",
-    "Excalidraw/Drawing 2024-04-17 17.29.24.excalidraw.md",
-    "🍴 ThreeJS/요소/Texture.md",
     "론픽/리앤핏/무제 파일.canvas",
     "론픽/리앤핏",
-    "📅 Calendar/2024-04-16.md",
     "📦 Images/스크린샷 2024-04-11 오후 2.46.17.png",
     "머신러닝/Must Have 데싸노트의 실전에서 통하는 머신러닝",
     "머신러닝",
