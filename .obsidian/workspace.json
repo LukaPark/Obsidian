@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-05-21.md",
+                "file": "2024-05-22.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "ec80834989407ddf",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-05-21.md",
+                "file": "2024-05-22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-05-21.md",
+                "file": "2024-05-22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-05-21.md"
+                "file": "2024-05-22.md"
               }
             }
           },
@@ -158,16 +159,23 @@
   },
   "active": "a21253e34ac22907",
   "lastOpenFiles": [
+    "✔️ AWS/EC2.md",
+    "Studies/Test in FE.md",
+    "메모/Toss.md",
+    "메모/무제.md",
+    "✔️ NPM/NPM 명령어.md",
+    "2024-05-22.md",
+    "📅 Calendar/2024-05-21.md",
+    "📅 Calendar/2024-05-20.md",
+    "빅데이터분석기사/필기/빅데이터의 이해.md",
     "Excalidraw/Drawing 2024-04-17 17.29.24.excalidraw.md",
     "Excalidraw/Drawing 2024-03-26 14.10.57.excalidraw.md",
     "Excalidraw/Drawing 2024-05-10 10.43.50.excalidraw.md",
     "Excalidraw/Drawing 2024-04-17 17.29.29.excalidraw.md",
-    "2024-05-21.md",
     "📅 Calendar/2024-05-14.md",
     "📅 Calendar/2024-05-15.md",
     "📅 Calendar/2024-05-16.md",
     "📅 Calendar/2024-05-17.md",
-    "2024-05-20.md",
     "📅 Calendar/2024-05-10.md",
     "📅 Calendar/2024-05-07.md",
     "📅 Calendar/2024-05-08.md",
@@ -176,22 +184,15 @@
     "자격증/ADsP/기출 모의 고사.md",
     "자격증/ADsP/21~35회 단답형 기출 모음.md",
     "자격증/ADsP/38회 기출..md",
-    "Studies/Test in FE.md",
     "📦 Images/Pasted image 20240419140611.png",
     "자격증/무제 파일.md",
     "자격증/ADsP",
-    "📅 Calendar/2024-05-02.md",
     "무제 폴더",
     "자격증",
-    "📅 Calendar/2024-05-01.md",
-    "📅 Calendar/2024-04-23.md",
-    "✔️ 정보처리기사/실기/무제 파일 1.md",
     "📦 Images/Pasted image 20240422165202.png",
     "📦 Images/Pasted image 20240422165056.png",
     "📦 Images/Pasted image 20240422164853.png",
     "📦 Images/Pasted image 20240422164834.png",
-    "✔️ 정보처리기사/실기/무제 파일.md",
-    "Studies/Web.dev/반응형 디자인.md",
     "Studies/Web.dev",
     "📦 Images/Pasted image 20240419141633.png",
     "Studies/Docker",
