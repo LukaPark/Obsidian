@@ -4,7 +4,7 @@ typeorm-model-generator 를 사용.
 # entity 파일 생성 명령어
 
 -h : host, 연결할 서버 ip
-
+  
 -d : database, 연결할 db 이름
 
 -p : port, 연결할 서버 port

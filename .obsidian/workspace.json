@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "✔️ Nest JS/TypeORM/DB 테이블 Schema 변경사항 불러오기.md",
+                "file": "2024-06-05.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "✔️ Nest JS/TypeORM/DB 테이블 Schema 변경사항 불러오기.md",
+                "file": "2024-06-05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "✔️ Nest JS/TypeORM/DB 테이블 Schema 변경사항 불러오기.md",
+                "file": "2024-06-05.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "✔️ Nest JS/TypeORM/DB 테이블 Schema 변경사항 불러오기.md"
+                "file": "2024-06-05.md"
               }
             }
           },
@@ -159,6 +159,9 @@
   },
   "active": "a21253e34ac22907",
   "lastOpenFiles": [
+    "2024-06-04.md",
+    "2024-06-05.md",
+    "✔️ Nest JS/TypeORM/DB 테이블 Schema 변경사항 불러오기.md",
     "2024-05-22.md",
     "✔️ AWS/EC2.md",
     "Studies/Test in FE.md",
@@ -182,10 +185,7 @@
     "📅 Calendar/2024-05-09.md",
     "📅 Calendar/2024-05-03.md",
     "자격증/ADsP/기출 모의 고사.md",
-    "자격증/ADsP/21~35회 단답형 기출 모음.md",
-    "자격증/ADsP/38회 기출..md",
     "📦 Images/Pasted image 20240419140611.png",
-    "자격증/무제 파일.md",
     "자격증/ADsP",
     "무제 폴더",
     "자격증",
